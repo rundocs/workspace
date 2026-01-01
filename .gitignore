@@ -1,0 +1,13 @@
+# Dependencies
+
+# Production
+
+# Generated files
+
+# Misc
+.env
+.env.local
+*.log
+*.tsbuildinfo
+.DS_Store
+*Zone.Identifier
